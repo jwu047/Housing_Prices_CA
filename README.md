@@ -63,9 +63,9 @@ P-value is 2.1184263274346533e-49
 Home Value vs Crime Rate  
 ![CA_City_Crime_Rate_vs_Home_Value](/Images/CA_City_Crime_Rate_vs_Home_Value.png)  
 p-value is 2.9005656836394537e-13  
-   
-Based on the analysis we did, it shows home value does correlation with population, age, temperature, income, provety rate, employment rate and crime rate.   
-But there is correlation with %Hispanic population and %Black population, based on the current data set.   
+
+## Conclusion
+The more apparent results were household income, poverty rate, and rent. Household income seems to be the most correlated with home values. There is a correlation between poverty rate and home value as well as between rent and home values. Factors like population, age, crime rate, and employment rate play a less but still significant role in affecting property values. In the end, we were unable to determine that climate and minority population were correlated with home values.  
   
 #### An interesting insight that came up during data exploration...  
 Is there a relationship between business establishments, specifically grocery stores, and housing prices?   
